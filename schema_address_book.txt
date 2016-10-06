@@ -1,1 +1,6 @@
 Copy your URL to screenshot here
+http://imgur.com/a/SxWzc
+
+1.Kontak memiliki nama, perusahaan, nomor telepon, dan email.
+2.Grup memiliki nama.
+3.Kontak dan Grup memiliki relasi many to many. Kontak bisa masuk di banyak grup, dan grup bisa dimasuki banyak kontak.
